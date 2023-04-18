@@ -1,0 +1,2 @@
+plt.xticks(rotation=45)
+sns.barplot(x=df1["kmclusts"], y=df1["passenger_count"])
